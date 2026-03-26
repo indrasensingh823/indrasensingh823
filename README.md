@@ -24,12 +24,12 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Web Development, AI & ML Projects**
-- 🌱 I’m currently learning **React, Firebase, Python, Machine Learning**
-- 💡 I love building **creative, responsive, and animated websites**
-- 🎯 Goal: To become a **Full Stack + AI Developer**
-- ⚡ Fun fact: **I turn ideas into beautiful web experiences**
-- 📫 Reach me at: **indrasensingh770@gmail.com**
+- I’m currently working on **Web Development, AI & ML Projects**
+- I’m currently learning **React, Firebase, Python, Machine Learning**
+- I love building **creative, responsive, and animated websites**
+- Goal: To become a **Full Stack + AI Developer**
+- Fun fact: **I turn ideas into beautiful web experiences**
+- Reach me at: **indrasensingh770@gmail.com**
 
 ---
 
