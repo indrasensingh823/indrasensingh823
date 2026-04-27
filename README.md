@@ -56,28 +56,28 @@
 ### 💬 ChatterLink – Real-Time Chat Application
 - Built using **React, Node.js, Socket.io**
 - Supports real-time messaging and authentication
-🔗 https://github.com/indrasensingh823/ChatterLink---Real-Time-Chat-Application
+- https://github.com/indrasensingh823/ChatterLink---Real-Time-Chat-Application
 
 ---
 
 ### 🍽️ ZestyVerse – Recipe Sharing Platform
 - Full-stack MERN application with authentication & CRUD
 - Dynamic UI with filtering and search
-🔗 https://github.com/indrasensingh823/ZestyVerse-Recipe-sharing-plateform
+- https://github.com/indrasensingh823/ZestyVerse-Recipe-sharing-plateform
 
 ---
 
 ### 🤖 Spam Email Classifier
 - Machine Learning project using **Python & NLP**
 - Implemented TF-IDF, Naive Bayes, SVM
-🔗 https://github.com/indrasensingh823/Spam-Email-Classification-using-NLP-and-Machine-Learning
+- https://github.com/indrasensingh823/Spam-Email-Classification-using-NLP-and-Machine-Learning
 
 ---
 
 ### 📝 InkSynk – Real-Time Document Editor
 - Collaborative editor using **WebSockets**
 - Multi-user live editing system
-🔗 https://github.com/indrasensingh823/InkSynk-Real-time-doc-editor
+- https://github.com/indrasensingh823/InkSynk-Real-time-doc-editor
 
 ---
 
