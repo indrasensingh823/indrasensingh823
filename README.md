@@ -10,7 +10,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Indrasen Singh</h1>
-<h3 align="center">A Passionate Frontend Developer from India 🇮🇳</h3>
+<h3 align="center">Software Developer | Full Stack (MERN) | AI/ML Enthusiast</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -24,12 +24,60 @@
 
 ## 🙋‍♂️ About Me
 
-- I’m currently working on **Web Development, AI & ML Projects**
-- I’m currently learning **React, Firebase, Python, Machine Learning**
-- I love building **creative, responsive, and animated websites**
-- Goal: To become a **Full Stack + AI Developer**
-- Fun fact: **I turn ideas into beautiful web experiences**
-- Reach me at: **indrasensingh770@gmail.com**
+## 🚀 About Me
+- 💻 Software Developer specializing in **Full Stack Web Development & Machine Learning**
+- ⚡ Experienced in building **real-time applications using WebSockets**
+- 🧠 Worked on **AI/ML projects using Python & NLP**
+- 🌐 Developed scalable applications using **MERN Stack (MongoDB, Express, React, Node.js)**
+- 🎯 Goal: To build impactful, real-world digital solutions
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+`Python` `JavaScript` `C` `C++` `SQL`
+
+### 🌐 Web Development
+`HTML` `CSS` `JavaScript` `React.js` `Node.js` `Express.js`
+
+### 🗄️ Database
+`MongoDB` `MySQL` `Firebase`
+
+### 🤖 Machine Learning
+`NLP` `Scikit-learn` `TensorFlow`
+
+### ⚙️ Tools
+`Git` `GitHub` `VS Code` `Jupyter Notebook`
+
+---
+## 🚀 Featured Projects
+
+### 💬 ChatterLink – Real-Time Chat Application
+- Built using **React, Node.js, Socket.io**
+- Supports real-time messaging and authentication
+🔗 https://github.com/indrasensingh823/ChatterLink---Real-Time-Chat-Application
+
+---
+
+### 🍽️ ZestyVerse – Recipe Sharing Platform
+- Full-stack MERN application with authentication & CRUD
+- Dynamic UI with filtering and search
+🔗 https://github.com/indrasensingh823/ZestyVerse-Recipe-sharing-plateform
+
+---
+
+### 🤖 Spam Email Classifier
+- Machine Learning project using **Python & NLP**
+- Implemented TF-IDF, Naive Bayes, SVM
+🔗 https://github.com/indrasensingh823/Spam-Email-Classification-using-NLP-and-Machine-Learning
+
+---
+
+### 📝 InkSynk – Real-Time Document Editor
+- Collaborative editor using **WebSockets**
+- Multi-user live editing system
+🔗 https://github.com/indrasensingh823/InkSynk-Real-time-doc-editor
 
 ---
 
@@ -66,7 +114,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=indrasensingh823&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true" height="180em" />
+  <img src = "https://github-readme-stats.vercel.app/api?username=indrasensingh823&show_icons=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indrasensingh823&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" height="180em" />
 </p>
 
@@ -125,16 +173,6 @@ Automation, AI, and learning models
 </td>
 </tr>
 </table>
-
----
-
-## 🌟 Featured Projects
-
-- 🎬 **Movie Website** – Responsive movie platform with premium UI
-- 🌦️ **Weather App** – Real-time weather forecast using API
-- 📚 **Student Learning Website** – Books, notes, formulas, tools
-- 🤖 **AI Chatbot** – Smart assistant with NLP & learning capability
-- 🧠 **Quiz / Brain Game Website** – Interactive educational games
 
 ---
 
